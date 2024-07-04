@@ -1,0 +1,8 @@
+Employee: Name=Do Minh Long, Email=dmlong@gmail.com, StartDate=05/07/2023
+=> Book: Title=Clean architecture with .Net Core, Price=$60.69, Link=www.amazon.com?id=11512
+
+Employee: Name=Tran Bao Tuan, Email=tbtuan@gmail.com, StartDate=12/06/2022
+=> Book: Title=The Pragmatic Programmer: From Journeyman to Master, Price=$55.17, Link=www.amazon.com?id=11459
+
+Employee: Name=Cao Hoang Thien, Email=chthien@gmail.com, StartDate=12/06/2021
+=> Book: Title=Design Patterns: Elements of Reusable Object-Oriented Software, Price=$58.29, Link=www.amazon.com?id=66821

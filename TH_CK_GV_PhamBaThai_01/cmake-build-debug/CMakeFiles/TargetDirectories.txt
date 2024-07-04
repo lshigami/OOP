@@ -1,0 +1,3 @@
+C:/Users/yanke/CLionProjects/CK_Prepare/cmake-build-debug/CMakeFiles/CK_Prepare.dir
+C:/Users/yanke/CLionProjects/CK_Prepare/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yanke/CLionProjects/CK_Prepare/cmake-build-debug/CMakeFiles/rebuild_cache.dir

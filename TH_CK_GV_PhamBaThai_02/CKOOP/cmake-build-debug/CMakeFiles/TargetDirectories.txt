@@ -1,0 +1,3 @@
+C:/Users/yanke/CLionProjects/CKOOP/cmake-build-debug/CMakeFiles/CKOOP.dir
+C:/Users/yanke/CLionProjects/CKOOP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yanke/CLionProjects/CKOOP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

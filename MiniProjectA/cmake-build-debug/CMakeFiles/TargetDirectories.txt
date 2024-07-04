@@ -1,0 +1,3 @@
+C:/Users/yanke/CLionProjects/MiniProjectA/cmake-build-debug/CMakeFiles/MiniProjectA.dir
+C:/Users/yanke/CLionProjects/MiniProjectA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yanke/CLionProjects/MiniProjectA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
